@@ -958,7 +958,7 @@ pre .javascript .function {
 }
 .header {
   background: url("http://omsks2h8u.bkt.clouddn.com/blog/20170315/204650794.jpg");
-  background-size: contain;
+  background-size: cover;
 }
 .header-inner {
   position: relative;
@@ -1685,7 +1685,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #995485;
+  background: #fff;
 }
 .links-of-blogroll {
   font-size: 13px;
